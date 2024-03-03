@@ -6,3 +6,4 @@ Tribu vikinga formada por una alianza entre humanos y orcos. Disuelta después d
 
 ## Miembros
 - [Sigrid](../Personajes/Personajes%20Jugables/Sigrid.md)
+- [Sylvia](../Personajes/Personajes%20Jugables/Sylvia.md)
