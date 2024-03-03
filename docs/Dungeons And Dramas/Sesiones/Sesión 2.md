@@ -10,7 +10,8 @@ Tras la llegada de Redd a la taberna, les comenta las misiones disponibles, y el
 El grupo llega a Inten y se reúne con [Ashki](../Personajes/Ashki.md), que les explica la naturaleza de la misión:  
 En la ciudad, un monstruo está acabando con la vida de numerosos habitantes, y se refugia en una cueva próxima. Los aventureros consiguen información sobre la cueva y el monstruo, del que únicamente saben que tiene cinco brazos.
 
-Ya dentro de la cueva, los cuatro compañeros y el dragón pelean contra un par de arañas gigantes y un limo gris, que corroe la cota de malla de Redd. Tras adentrarse algo más en la cueva, oyen un ruido, y se encuentran frente a frente contra el monstruo que ha estado aterrorizando la ciudad de Inten: un pentadrón. 
+Ya dentro de la cueva, los cuatro compañeros y el dragón pelean contra un par de arañas gigantes y un limo gris, que corroe la cota de malla de Redd. Tras adentrarse algo más en la cueva, oyen un ruido, y se encuentran frente a frente contra el monstruo que ha estado aterrorizando la ciudad de Inten: un pentadrón.
+
 ![](https://static.wikia.nocookie.net/forgottenrealms/images/0/0a/Pentadrone.jpeg)
 
 Durante la pelea con el pentadrón, el aliento de ácido del dragón revela de las sombras a un segundo habitante de la cueva, un nótico, que se une a la lucha. 
