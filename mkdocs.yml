@@ -1,5 +1,3 @@
 site_name: Dungeons And Dragons Campaigns
 theme:
   name: material
-nav:
-- 'index.md'
