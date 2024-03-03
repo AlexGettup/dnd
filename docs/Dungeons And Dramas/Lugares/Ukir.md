@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#Ciudad"
+  - Ciudad
 ---
 Importante ciudad portuaria al norte de [Kasoon](Kasoon.md).
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#Ciudad"
+  - Ciudad
 ---
 Ciudad que contiene la Escuela de Hechicería. 
 
