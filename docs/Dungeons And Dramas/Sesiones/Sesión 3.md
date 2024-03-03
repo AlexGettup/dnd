@@ -5,7 +5,7 @@ De vuelta en [Kasoon](../Lugares/Kasoon.md), después de la fructuosa misión en
 *"¡EXPLORADORES, HEROES Y AVENTUREROS! TENEMOS UN GRAVE PROBLEMA. PUEDE QUE ALGUNOS YA ESTEIS AL CORRIENTE, PERO ES MI DEBER INFORMAR DE LAS CATÁSTROFES QUE ESTÁN ASOLANDO NUESTRO MUNDO. PRIMERO, FUE EL TERREMOTO DE FENESTRO, LUEGO, LA INGENTE INFESTACIÓN DE MONSTRUOS, Y AHORA... UN TSUNAMI HA BORRADO AMIHS DE LA FAZ DE LA TIERRA. 
 PUEDEN PARECER HECHOS AISLADOS, PERO DESDE LA ESCUELA DE HECHIZERÍA DE [SEVERNAYA](../Lugares/Severnaya.md), EL GRAN VIDENTE [DROSS](../Personajes/Dross.md) HA VATICINADO EL FIN DEL MUNDO. POR ELLO, EN TODAS LAS CIUDADES, SE ESTÁ EXTENDIENDO EL MENSAJE. HAY QUE AVERIGUAR QUE ESTÁ PASANDO, QUÉ PROVOCA LAS CATÁSTROFES, Y ENCONTRAR UNA MANERA DE EVITAR EL FUTURO DESOLADOR. ¡ESTA MISION TIENE LA MÁXIMA PRIORIDAD!"*
 
-![](Imagenes/map.png)
+![map](../Imagenes/map.png)
 ## **Males menores**
 
 Impactado por la noticia, [3zYqPn3](../Personajes/Personajes%20Jugables/3zYqPn3%20UcHiW4.md) se da una vuelta por [Kasoon](../Lugares/Kasoon.md), en busca de una mujer a la que seducir. Tras varios intentos fallidos conoce a una atractiva enana, y se la lleva de vuelta a la taberna. Durante los preeliminares, 3zYqPn3 se entera de que su acompañante es menor de edad, y la pareja es interrumpida bruscamente ante el tío de la enana, que también se hospedaba en la taberna. 
