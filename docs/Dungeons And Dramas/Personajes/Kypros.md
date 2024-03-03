@@ -3,7 +3,6 @@ tags:
   - Compañero
   - Dragón
 ---
-## Kypros
 *Dragón de cobre*
 ___
 ## Historia

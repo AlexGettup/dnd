@@ -4,7 +4,6 @@ tags:
   - Mediano
   - Pícaro
 ---
-## Belka Poparrosa
 *Mediano Piesligeros pícaro*
 ___
 ## Historia

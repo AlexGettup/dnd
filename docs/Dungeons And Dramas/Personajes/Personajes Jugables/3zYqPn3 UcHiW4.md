@@ -4,7 +4,6 @@ tags:
   - Elfo
   - Explorador
 ---
-## 3zYqPn3 UcHiW4
 *Elfo de los bosques Explorador*
 ___
 ## Historia

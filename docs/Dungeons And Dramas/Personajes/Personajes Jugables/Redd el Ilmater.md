@@ -4,7 +4,6 @@ tags:
   - Humano
   - Clérigo
 ---
-## Redd el Ilmater
 *Humano clérigo*
 ___
 ## Historia
