@@ -1,3 +1,6 @@
 site_name: Dungeons And Dragons Campaigns
 theme:
   name: material
+  palette:
+      primary: deep purple
+      accent: light green
