@@ -5,7 +5,7 @@ tags:
 Grupo de jóvenes contrabandistas que operaba en Aguasprofundas.
 
 ### Miembros
-- ***Alis***, elfa. Líder. 
+- [***Alis***](../Personajes/Alis.md), elfa. Líder. 
 - ***Osoji***, enano. 
 - ***Sero***, semiorco. 
 - ***Nijeen***, tiflin.

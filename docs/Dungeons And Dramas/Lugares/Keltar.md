@@ -5,4 +5,4 @@ tags:
 ---
 _Keltar_, una de las ciudades más antiguas de Faerûn, se encuentra en Calimshan y es famosa porque en ella se ubica la Casa del Dios Roto.
 
-![](Imagenes/Keltar.png)
+![Keltar](../Imagenes/Keltar.png)
