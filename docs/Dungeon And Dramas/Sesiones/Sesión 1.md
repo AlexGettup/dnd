@@ -1,0 +1,3 @@
+viernes, 26 de mayo de 2023
+
+En la [Sesión 1] Inicial, el grupo de héroes se encontró con un poblado habitado por Goblins. En la Taberna, [[3zYqPn3 UcHiW4]] tuvo relaciones con una camarera, y fue apuñalado por la espalda por un Elfo Oscuro. Al final, consiguieron una misión, y se encargaron de exterminar la amenaza de un pequeño grupo de Goblins disidentes que había conseguido (Dios sabe cómo) un pequeño huevo de Dragón. El huevo finalmente se abrió, tras su combate, y la [pequeña criatura](Kypros.md) se unió al grupo.
