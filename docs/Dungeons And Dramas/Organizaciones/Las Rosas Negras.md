@@ -9,4 +9,4 @@ Grupo de jóvenes contrabandistas que operaba en Aguasprofundas.
 - ***Osoji***, enano. 
 - ***Sero***, semiorco. 
 - ***Nijeen***, tiflin.
-- ***[Belka Poparrosa](../Personajes/Personajes%20Jugables/Belka%20Poparrosa.md)***, mediana.
+- ***[Belka Poparrosa](../Personajes/Grupo/Belka%20Poparrosa.md)***, mediana.

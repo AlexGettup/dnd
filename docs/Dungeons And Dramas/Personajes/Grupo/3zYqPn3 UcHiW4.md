@@ -12,4 +12,4 @@ ___
 ## Conquistas
 - [Bela](../Bela.md)
 - [Destra](../Destra.md)
-- Enana menor en [Kasoon](../../Ciudades/Kasoon.md)
+- Enana menor en [Kasoon](../../Lugares/Ciudades/Kasoon.md)

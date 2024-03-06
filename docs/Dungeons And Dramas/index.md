@@ -2,10 +2,10 @@
 
 
 ## Aventureros
-- [3zYqPn3 UcHiW4](Personajes/Personajes%20Jugables/3zYqPn3%20UcHiW4.md)
-- [Belka Poparrosa](Personajes/Personajes%20Jugables/Belka%20Poparrosa.md)
-- [Redd el Ilmater](Personajes/Personajes%20Jugables/Redd%20el%20Ilmater.md)
-- [Sigrid](Personajes/Personajes%20Jugables/Sigrid.md)
+- [3zYqPn3 UcHiW4](Personajes/Grupo/3zYqPn3%20UcHiW4.md)
+- [Belka Poparrosa](Personajes/Grupo/Belka%20Poparrosa.md)
+- [Redd el Ilmater](Personajes/Grupo/Redd%20el%20Ilmater.md)
+- [Sigrid](Personajes/Grupo/Sigrid.md)
 ---
 ## Sesiones
 | Sesión                             | Fecha    |

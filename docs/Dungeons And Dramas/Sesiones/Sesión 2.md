@@ -1,9 +1,9 @@
 ## **Separados en Kasoon**
-Los aventureros amanecen en [Kasoon](../Ciudades/Kasoon.md), con la intencion de realizar algún trabajo para demostrar su valía. Se separan, y mientras [Redd](../Personajes/Personajes%20Jugables/Redd%20el%20Ilmater.md) recoge las misiones disponibles en el gremio de exploradores, [Belka](../Personajes/Personajes%20Jugables/Belka%20Poparrosa.md) busca sin éxito información sobre [las Rosas Negras](../Organizaciones/Las%20Rosas%20Negras.md). 
+Los aventureros amanecen en [Kasoon](../Lugares/Ciudades/Kasoon.md), con la intencion de realizar algún trabajo para demostrar su valía. Se separan, y mientras [Redd](../Personajes/Grupo/Redd%20el%20Ilmater.md) recoge las misiones disponibles en el gremio de exploradores, [Belka](../Personajes/Grupo/Belka%20Poparrosa.md) busca sin éxito información sobre [las Rosas Negras](../Organizaciones/Las%20Rosas%20Negras.md). 
 
-En la taberna, [Sigrid](../Personajes/Personajes%20Jugables/Sigrid.md) es expulsada por no querer pagar, y [3zYqPn3](../Personajes/Personajes%20Jugables/3zYqPn3%20UcHiW4.md) liga con una habitual llamada [Bela](../Personajes/Bela.md). Mientras tanto, Belka también ha vuelto a la taberna, y decide robar por las habitaciones, entre las que encuentra un [Libro de monstruos](../Otros/Libro%20de%20monstruos.md) que se queda.
+En la taberna, [Sigrid](../Personajes/Grupo/Sigrid.md) es expulsada por no querer pagar, y [3zYqPn3](../Personajes/Grupo/3zYqPn3%20UcHiW4.md) liga con una habitual llamada [Bela](../Personajes/Bela.md). Mientras tanto, Belka también ha vuelto a la taberna, y decide robar por las habitaciones, entre las que encuentra un [Libro de monstruos](../Otros/Libro%20de%20monstruos.md) que se queda.
 
-Tras la llegada de Redd a la taberna, les comenta las misiones disponibles, y el equipo se decide por la publicada desde la ciudad de [Inten](../Ciudades/Inten.md), donde un monstruo esta causando estragos. Precisamente la familia enana que había en la taberna es de Inten, y les comentan a Belka que huyen de allí. El grupo parte hacia la ciudad en problemas.
+Tras la llegada de Redd a la taberna, les comenta las misiones disponibles, y el equipo se decide por la publicada desde la ciudad de [Inten](../Lugares/Ciudades/Inten.md), donde un monstruo esta causando estragos. Precisamente la familia enana que había en la taberna es de Inten, y les comentan a Belka que huyen de allí. El grupo parte hacia la ciudad en problemas.
 
 ---
 ## **La cueva de Inten**

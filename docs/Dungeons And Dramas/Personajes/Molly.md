@@ -4,4 +4,4 @@ tags:
 ---
 *Humana*
 ___
-Tabernera de [[Kame]].
+Tabernera de [[../Lugares/Ciudades/Kame]].
