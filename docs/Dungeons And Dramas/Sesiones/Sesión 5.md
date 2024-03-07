@@ -3,11 +3,11 @@ Resuelto el problema en **[Kame](../Lugares/Ciudades/Kame.md)** (y expulsados de
 
 Una misión en el gremio de exploradores hablaba de como **[Odessa](../Lugares/Ciudades/Odessa.md) está sufriendo una extraña enfermedad**, y al llegar encuentran la ciudad llena de suciedad y podredumbre.
 
-Al llegar hablan con **[Meredith](../Personajes/Meredith.md)**, una bella señorita que fija sus ojos en Zykpene, y esta les cuenta como poco a poco los niños de la ciudad han ido cayendo en un coma, y ninguno ha despertado. El grupo investiga a uno de los niños al cuidado de Meredith: **Roger**, un huérfano.
+Al llegar hablan con **[Meredith](../Personajes/Meredith.md)**, una bella señorita que fija sus ojos en [3zYqPn3](../Personajes/Grupo/3zYqPn3%20UcHiW4.md), y esta les cuenta como poco a poco los niños de la ciudad han ido cayendo en un coma, y ninguno ha despertado. El grupo investiga a uno de los niños al cuidado de Meredith: **[Roger](../Personajes/Roger.md)**, un huérfano.
 
-Redd detecta que la enfermedad tiene origen mágico, justo en el momento en el que nota una presencia salir de Roger y meterse dentro de él. Intenta expulsarla, pero solo consigue que pase a Belka, a Sylvia, y vuelva a él. 
+[Redd](../Personajes/Grupo/Redd%20el%20Ilmater.md) detecta que la enfermedad tiene origen mágico, justo en el momento en el que nota una presencia salir de Roger y meterse dentro de él. Intenta expulsarla, pero solo consigue que pase a [Belka](../Personajes/Grupo/Belka%20Poparrosa.md), a [Sylvia](../Personajes/Grupo/Sylvia.md), y vuelva a él. 
 
-De repente, entra una especie de **chamán**, que los insta a salir de la habitación. Le pide al grupo que le acompañe a su apartada cabaña, en la que les quiere hablar sobre lo que realmente ocurre en Odessa.
+De repente, entra una especie de **[chamán](../Personajes/Desconocidos/Chamán%20de%20Odessa.md)**, que los insta a salir de la habitación. Le pide al grupo que le acompañe a su apartada cabaña, en la que les quiere hablar sobre lo que realmente ocurre en Odessa.
 
 ---
 ## **El devorador**
@@ -17,7 +17,7 @@ La temible criatura ha estado alimentándose de los cerebros de los niños de la
 
 ![](https://static.wikia.nocookie.net/forgottenrealms/images/5/53/Intellectdevourer5e.png)
 
-El chamán les pide ayuda a los aventureros, y prepara una poción utilizando éxtasis, para dormir y transportarse al cerebro del clérigo, y así poder pelear con el devorador de intelectos. Pero antes de entrar les advierte: si mueren dentro, nunca despertarán. Aunque al principio dudan, todos (Incluido Gamanabo y Kypros), beben y **se adentran en la mente de Redd**.
+El chamán les pide ayuda a los aventureros, y prepara una poción utilizando éxtasis, para dormir y transportarse al cerebro del clérigo, y así poder pelear con el devorador de intelectos. Pero antes de entrar les advierte: si mueren dentro, nunca despertarán. Aunque al principio dudan, todos (Incluido [Gamanabo](../Personajes/Gamanabo.md) y [Kypros](../Personajes/Kypros.md)), beben y **se adentran en la mente de Redd**.
 
 Ya dentro, los aventureros encuentran una réplica de Odessa, pero vacía y gris. Pronto, se topan con la criatura causante de la enfermedad: el devorador de intelectos. El grupo no tarda en acabar con la criatura, pero encuentra un nuevo problema: **cómo salir** del plano en el que se encuentran.
 
@@ -30,15 +30,16 @@ Desesperado, Zykpene le dice a Gamanabo que **regurgite restos de la pocion** pa
 ---
 ## **Llegada a Ukir**
 
-Los aventureros llegan a **Ukir**, la gran ciudad portuaria, y buscan dónde hospedarse. Greg, un agente inmobiliario, les alquila una casa de color rojizo por 550 PO, el **221B de Baker Street**.
+Los aventureros llegan a **Ukir**, la gran ciudad portuaria, y buscan dónde hospedarse. [Greg](../Personajes/Greg.md), un agente inmobiliario, les alquila una casa de color rojizo por 550 PO, el [**221B de Baker Street**](../Lugares/Ciudades/Ukir.md#221B de Baker Street).
 
 Al poco de instalarse, cada uno se pone a explorar la ciudad a su manera:
-**Zykpene va a la taberna élfica de Treeborn** y liga con una elfa de las habituales de la taberna, **Noemi**.
 
-**Redd, va en busca del puerto**. En el puerto, descubre que hay un pasaje a Severnaya que sale en 2 semanas. A la vuelta, pasa por el gremio de exploradores, y consigue dos misiones.
+**Zykpene va a la taberna élfica de [Treeborn](../Lugares/Ciudades/Ukir.md#Treeborn)** y liga con una elfa de las habituales de la taberna, [**Noemi**](../Personajes/Noemi.md).
 
-**Belka va en busca de informacion sobre las Rosas Negras** en los barrios peligrosos de la ciudad. Un guardia de la ciudad le habla sobre **Billy**, el mafioso lider de los bajos fondos que dirige el coliseo. El guardia le ofrece 2000 PO por la cabeza de Billy, pues mató a su hermano. Después, en una de las tabernas de los bajos fondos, conoce a **Oscar**, un tiefling que le propone información a cambio de favores sexuales. Belka utiliza la **mano mágica** de forma creativa, y descubre que **Nijeen** ha estado en la ciudad buscando un valioso **cáliz**.
+**Redd, va en busca del puerto**. En el puerto, descubre que hay un pasaje a [Severnaya](../Lugares/Ciudades/Severnaya.md) que sale en 2 semanas. A la vuelta, pasa por el gremio de exploradores, y consigue dos misiones.
 
-**Sylvia busca pelea en el coliseo** de la ciudad. Al llegar presencia un combate a muerte y después conoce a Billy, que la subestima. La semiorca se revuelve, e intenta pelear allí mismo contra **Launa y Kiros**, dos de los gladiadores, que le pegan una paliza y la expulsan. Inconsciente, es recogida y transportada de vuelta por Belka.
+**Belka va en busca de informacion sobre [Las Rosas Negras**](../Organizaciones/Las%20Rosas%20Negras.md) en los barrios peligrosos de la ciudad. Un [guardia de la ciudad](../Personajes/Desconocidos/Guardia%20de%20Ukir.md) le habla sobre **[Billy](../Personajes/Billy.md)**, el mafioso lider de los bajos fondos que dirige el coliseo. El guardia le ofrece 2000 PO por la cabeza de Billy, pues mató a su hermano. Después, en una de las tabernas de los bajos fondos, conoce a **[Oscar](../Personajes/Oscar.md)**, un tiefling que le propone información a cambio de favores sexuales. Belka utiliza la **mano mágica** de forma creativa, y descubre que **[Nijeen](../Personajes/Nijeen.md)** ha estado en la ciudad buscando un valioso [**cáliz**](../Otros/Cáliz%20de%20Loviatar.md).
+
+**Sylvia busca pelea en el [coliseo](../Lugares/Ciudades/Ukir.md#Coliseo)** de la ciudad. Al llegar presencia un combate a muerte y después conoce a Billy, que la subestima. La semiorca se revuelve, e intenta pelear allí mismo contra **[Launa](../Personajes/Launa.md) y [Kiros](../Personajes/Kiros.md)**, dos de los gladiadores, que le pegan una paliza y la expulsan. Inconsciente, es recogida y transportada de vuelta por Belka.
 
 Todos vuelven a casa con Kypros, y se cuentan lo acontecido durante su primer día en Ukir.
