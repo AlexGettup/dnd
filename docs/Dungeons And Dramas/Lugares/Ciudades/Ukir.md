@@ -6,16 +6,17 @@ Importante ciudad portuaria al norte de [Kasoon](Kasoon.md).
 ### Lugares de Interés
 
 - #### Treeborn
-	Taberna de elfos. Su logo es un árbol.
+Taberna de elfos. Su logo es un árbol.
 
 - #### Puerto
-	Puerto comercial y militar.
+Puerto comercial y militar.
 
 - #### Coliseo
-	Coliseo en que los gladiadores luchan. Propiedad de [Billy](../../Personajes/Billy.md).
+Coliseo en que los gladiadores luchan. Propiedad de [Billy](../../Personajes/Billy.md).
 
 - #### 221B de Baker Street
-	Base temporal de los aventureros en Ukir.
+Base temporal de los aventureros en Ukir.
+
 ### Habitantes notables
 - [Greg](../../Personajes/Greg.md)
 - [Noemi](../../Personajes/Noemi.md)
