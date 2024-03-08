@@ -25,3 +25,4 @@ Base temporal de los aventureros en Ukir.
 - [Oscar](../../Personajes/Oscar.md)
 - [Launa](../../Personajes/Launa.md)
 - [Kiros](../../Personajes/Kiros.md)
+- [Niños hambrientos de Ukir](../../Personajes/Desconocidos/Niños%20hambrientos%20de%20Ukir.md)

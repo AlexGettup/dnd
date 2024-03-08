@@ -16,6 +16,6 @@
 | [Sesión 3](Sesiones/Sesión%203.md) | 01-06-23 |
 | [Sesión 4](Sesiones/Sesión%204.md) | 06-06-23 |
 | [Sesión 5](Sesiones/Sesión%205.md) | 11-06-23 |
-| Sesión 6                           | 03-08-23 |
+| [Sesión 6](Sesiones/Sesión%206.md) | 03-08-23 |
 | Sesión 7                           | 20-02-24 |
 | Sesión 8                           | 28-02-24 |

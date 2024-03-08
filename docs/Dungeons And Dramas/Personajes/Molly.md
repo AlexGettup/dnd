@@ -2,6 +2,6 @@
 tags:
   - Humano
 ---
-*Humana*
+*Humana tabernera*
 ___
-Tabernera de [[../Lugares/Ciudades/Kame]].
+Tabernera de [Kame](../Lugares/Ciudades/Kame.md).
