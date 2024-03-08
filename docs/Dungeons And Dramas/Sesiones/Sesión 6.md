@@ -15,4 +15,6 @@ Llegan a la taberna y se encuentran con Freddy, que les habla del encargo. El gr
 
 De repente, delante de ellos, aparece un cubo gelatinoso. La primera reacción de Sylvia es atravesarlo con su espada, pero solo consigue **dividirlo** en dos. [**Kypros**](../Personajes/Kypros.md) acaba el trabajo rociando las mitades con ácido, pero las armas del limo se derriten en el proceso. 
 
+![Cubo Gelatinoso](https://www.dndbeyond.com/avatars/thumbnails/30834/149/1000/1000/638063882505895317.png)
+
 Aparece un cubo más, y esta vez el grupo consigue acabar con él sin arruinar las armas tragadas, por lo que vuelven con Freddy y **reciben la recompensa** acordada.
