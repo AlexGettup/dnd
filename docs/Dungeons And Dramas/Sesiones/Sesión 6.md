@@ -13,7 +13,7 @@ Llegan a la taberna y se encuentran con Freddy, que les habla del encargo. El gr
 
 **Dentro de la caverna**, Zykpene explora usando los ojos de [Gamanabo](../Personajes/Gamanabo.md), y encuentran un par de **vetas de plata**, que consiguien extraer y guardar para su uso futuro. 
 
-De repente, delante de ellos, aparece un cubo gelatinoso. La primera reacción de Sylvia es atravesarlo con su espada, pero solo consigue **dividirlo** en dos. [**Kypros**](../Personajes/Kypros.md) acaba el trabajo rociando las mitades con ácido, pero las armas del limo se derriten en el proceso. 
+De repente, delante de ellos, aparece un cubo gelatinoso. La primera reacción de Sylvia es atravesarlo con su espada, pero solo consigue **dividirlo** en dos. [**Kypros**](../Personajes/Kypros.md) y Gamanabo acaban el trabajo rociando las mitades con ácido y tragándose una mitad entera respectivamente, pero las armas del limo se pierden en el proceso. 
 
 ![Cubo Gelatinoso](https://www.dndbeyond.com/avatars/thumbnails/30834/149/1000/1000/638063882505895317.png)
 
